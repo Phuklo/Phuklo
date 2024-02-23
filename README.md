@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Phuklo
+- 👋 Hi, I’m @Reil
 - 👀 I’m interested in website developing
 - 🌱 I’m currently learning html, CSS
 - 💞️ I’m looking to collaborate on developer
