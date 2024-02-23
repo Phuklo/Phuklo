@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reil
+- 👋 Hi, I’m @ET
 - 👀 I’m interested in website developing
 - 🌱 I’m currently learning html, CSS
 - 💞️ I’m looking to collaborate on developer
